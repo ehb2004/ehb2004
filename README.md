@@ -5,9 +5,10 @@ IT Student at UNA
 -----------------
 ![My Profile Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZhZ2d3d2RwaW0zbnR0NTY0aWhjbnlrYmd4N2xxajkzcnVoYWxicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)
 
-I love, love, love computing and am always looking for a new fun project!
+Nice to see ya here! Here's a little bit about me: I love, love, love computing and am always looking for a new fun project!
 
 * 🌍  I'm based in Florence, AL
+* ⚡  Check out one of my projects! (https://github.com/ehb2004/devEasy)
 
 ### Skills
 
